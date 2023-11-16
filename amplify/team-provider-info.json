@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyc59323c0026c4-staging-200911-authRole",
+      "UnauthRoleArn": "arn:aws:iam::615100585589:role/amplify-amplifyc59323c0026c4-staging-200911-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::615100585589:role/amplify-amplifyc59323c0026c4-staging-200911-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-amplifyc59323c0026c4-staging-200911-deployment",
+      "UnauthRoleName": "amplify-amplifyc59323c0026c4-staging-200911-unauthRole",
+      "StackName": "amplify-amplifyc59323c0026c4-staging-200911",
+      "StackId": "arn:aws:cloudformation:eu-west-2:615100585589:stack/amplify-amplifyc59323c0026c4-staging-200911/02359c50-84bc-11ee-a776-02e034240344",
+      "AmplifyAppId": "d3lfox9qgmwjal"
+    },
+    "categories": {
+      "auth": {
+        "letusewebsite43b6e4f9": {}
+      }
+    }
+  }
+}
